@@ -1,0 +1,14 @@
+{
+  "Token": "",
+  "Database": {
+    "SQLite": {
+      "Path": "data",
+      "Filename": "data.db"
+    }
+  },
+  "Roles": {
+    "Guest": "",
+    "Member": "",
+    "Creator": ""
+  }
+}
